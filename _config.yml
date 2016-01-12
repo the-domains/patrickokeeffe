@@ -1,0 +1,28 @@
+name: PatrickOKeeffe
+favicon: null
+layout_spectrum: 0.26868232106789947
+typography_spectrum: 0.6876198276877403
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7141841663978994
+  lightness: 0.26330683496780694
+  saturation: 0.5835312833078206
+  rhythmicContrast: 0.855183677515015
+purpose: []
