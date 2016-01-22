@@ -1,6 +1,6 @@
 name: PatrickOKeeffe
 favicon: null
-layout_spectrum: 0.98523
+layout_spectrum: 0
 typography_spectrum: 0.74191
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#c0a588'
     - '#83715d'
     - '#3f2f1f'
-  brandStrength: 0.7141841663978994
+  brandStrength: 1
   lightness: 0.26330683496780694
   saturation: 0.5835312833078206
   rhythmicContrast: 0.855183677515015
