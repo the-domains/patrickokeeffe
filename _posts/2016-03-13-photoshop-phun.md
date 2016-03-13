@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'When I see ridiculous things on the internet, I sometimes blend them together. '
-datePublished: '2016-03-13T17:56:28.139Z'
-dateModified: '2016-03-13T17:55:19.172Z'
+datePublished: '2016-03-13T18:04:06.037Z'
+dateModified: '2016-03-13T17:59:03.918Z'
 title: Photoshop Phun
 author: []
 sourcePath: _posts/2016-03-13-photoshop-phun.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: photoshop-phun/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51650d0f-389c-4de9-b0a6-d592a66734b4.jpg)
