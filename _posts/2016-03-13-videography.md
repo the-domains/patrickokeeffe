@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Videography
-datePublished: '2016-03-13T16:40:39.291Z'
-dateModified: '2016-03-13T16:37:19.172Z'
+datePublished: '2016-03-13T17:59:04.691Z'
+dateModified: '2016-03-13T17:57:04.724Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-13-videography.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-videography.md
-published: true
 url: videography/index.html
 _type: Article
 
