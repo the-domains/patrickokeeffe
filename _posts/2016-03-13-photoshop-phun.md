@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When I see ridiculous things on the internet, I sometimes blend them together. '
-datePublished: '2016-03-13T18:04:06.037Z'
-dateModified: '2016-03-13T17:59:03.918Z'
+datePublished: '2016-03-13T18:04:45.526Z'
+dateModified: '2016-03-13T18:04:18.173Z'
 title: Photoshop Phun
 author: []
 sourcePath: _posts/2016-03-13-photoshop-phun.md
