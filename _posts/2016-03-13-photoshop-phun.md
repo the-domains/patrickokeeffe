@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-13T17:55:10.470Z'
-dateModified: '2016-03-13T17:54:51.045Z'
+description: 'When I see ridiculous things on the internet, I sometimes blend them together. '
+datePublished: '2016-03-13T17:56:28.139Z'
+dateModified: '2016-03-13T17:55:19.172Z'
 title: Photoshop Phun
 author: []
+sourcePath: _posts/2016-03-13-photoshop-phun.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-photoshop-phun.md
-published: true
 url: photoshop-phun/index.html
 _type: Article
 
